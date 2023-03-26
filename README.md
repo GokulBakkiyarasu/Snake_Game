@@ -1,6 +1,4 @@
-# Snake_Game
-Snake Game build using turtle graphics and oop's concepts and written using python
-Snake Game using Turtle Graphics and OOP's Concepts:
+# Snake Game using Turtle Graphics and OOP's Concepts:
 
 *This is a simple implementation of the classic Snake Game using Turtle Graphics and Object-Oriented Programming (OOP) concepts in Python.
 
