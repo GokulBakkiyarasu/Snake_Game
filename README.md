@@ -5,7 +5,7 @@ This project is a simple implementation of the classic Snake Game using Python's
 
 Installation
 
-    Clone this repository to your local machine using git clone https://github.com/yourusername/snake-game.git
+    Clone this repository to your local machine using git clone 
     Ensure that you have Python 3 installed.
     Install the turtle module, which is a standard Python library.
     Run python main.py to start the game.
