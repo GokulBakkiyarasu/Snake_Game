@@ -1,14 +1,14 @@
-#Snake Game using Turtle Graphics and OOP's Concepts
+Snake Game using Turtle Graphics and OOP's Concepts
 
 This project is a simple implementation of the classic Snake Game using Python's Turtle Graphics and Object-Oriented Programming concepts. The game involves controlling a snake on a grid, collecting food, and avoiding collision with the walls or the snake's own body. The game is over when the snake collides with the wall or its own body.
 
-Snake Game Screenshot
+
 Installation
 
     Clone this repository to your local machine using git clone https://github.com/yourusername/snake-game.git
     Ensure that you have Python 3 installed.
     Install the turtle module, which is a standard Python library.
-    Run python snake_game.py to start the game.
+    Run python main.py to start the game.
 
 How to Play
 
@@ -20,9 +20,10 @@ How to Play
 
 Project Structure
 
-    snake_game.py - the main Python script for the Snake Game.
+    main.py - the main Python script for the Snake Game.
     food.py - contains the Food class, which represents the food object that the snake must collect.
     snake.py - contains the Snake class, which represents the snake object and its behavior.
+    scoreboard.py - contains the scoreboard class, which represent scorebord object and its behavior
 
 Contributing
 
