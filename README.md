@@ -9,3 +9,5 @@ The code for this game is written using Python's built-in Turtle Graphics module
 To play the game, simply run the Python script and use the arrow keys to control the snake's movements. The game board will be displayed on a new window and the score will be updated as the snake eats more food.
 
 Overall, this Snake Game project is a great way to learn about Python's Turtle Graphics module and OOP concepts, as well as to have some fun with a classic game.
+
+The new updated version helps you to maintain a high score value using file read,write and open concepts in python.
