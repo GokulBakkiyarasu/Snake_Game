@@ -1,4 +1,4 @@
-Snake Game using Turtle Graphics and OOP's Concepts
+#Snake Game using Turtle Graphics and OOP's Concepts
 
 This project is a simple implementation of the classic Snake Game using Python's Turtle Graphics and Object-Oriented Programming concepts. The game involves controlling a snake on a grid, collecting food, and avoiding collision with the walls or the snake's own body. The game is over when the snake collides with the wall or its own body.
 
